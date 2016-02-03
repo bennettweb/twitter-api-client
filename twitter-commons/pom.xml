@@ -9,8 +9,8 @@
   </parent>
 
   <artifactId>twitter-commons</artifactId>
-
   <url>http://www.steve.codes/code/twitter-api-client</url>
+
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>

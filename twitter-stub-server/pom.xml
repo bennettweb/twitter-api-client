@@ -9,7 +9,6 @@
   </parent>
 
   <artifactId>twitter-stub-server</artifactId>
-
   <url>http://www.steve.codes/code/twitter-api-client</url>
 
   <properties>
