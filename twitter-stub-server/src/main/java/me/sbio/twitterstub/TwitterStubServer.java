@@ -2,8 +2,8 @@ package me.sbio.twitterstub;
 
 import com.github.tomakehurst.wiremock.WireMockServer;
 import com.github.tomakehurst.wiremock.client.WireMock;
-import me.sbio.readyourtweets.commons.config.TwitterConfig;
-import me.sbio.readyourtweets.commons.util.BearerTokenCreationException;
+import codes.steve.twitterapiclient.commons.config.TwitterConfig;
+import codes.steve.twitterapiclient.commons.util.BearerTokenCreationException;
 import me.sbio.twitterstub.mappings.Mapping;
 import me.sbio.twitterstub.mappings.MappingRegistrationException;
 import me.sbio.twitterstub.mappings.auth.MatchAllAuthenticationMapping;

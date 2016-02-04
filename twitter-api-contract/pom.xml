@@ -45,7 +45,7 @@
               <properties>
                 <property>
                   <name>listener</name>
-                  <value>me.sbio.readyourtweets.listener.StubServerListener</value>
+                  <value>codes.steve.twitterapiclient.listener.StubServerListener</value>
                 </property>
               </properties>
               <systemProperties>

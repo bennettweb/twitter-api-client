@@ -1,8 +1,8 @@
 package me.sbio.twitterstub.mappings.auth;
 
 import com.github.tomakehurst.wiremock.client.ResponseDefinitionBuilder;
-import me.sbio.readyourtweets.commons.util.BearerTokenCreationException;
-import me.sbio.readyourtweets.commons.util.TwitterKeyUtil;
+import codes.steve.twitterapiclient.commons.util.BearerTokenCreationException;
+import codes.steve.twitterapiclient.commons.util.TwitterKeyUtil;
 
 public class ValidAuthenticationMapping extends AuthenticationMapping {
 
